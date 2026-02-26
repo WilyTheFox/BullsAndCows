@@ -48,3 +48,21 @@ This structure keeps domain logic separate from control flow.
 
 ```bash
 dotnet run
+```
+Option 2 – Prebuilt Executable
+
+Download the executable from the Releases section and run it directly.
+
+Build Configuration
+
+The release build is:
+
+Self-contained
+
+Single-file
+
+Trimmed to reduce runtime size
+
+Purpose
+
+This project serves as a foundational programming exercise to reinforce clean structure and basic architectural thinking in C#.
