@@ -49,7 +49,7 @@ This structure keeps domain logic separate from control flow.
 ```bash
 dotnet run
 ```
-Option 2 – Prebuilt Executable
+### Option 2 – Prebuilt Executable
 
 Download the executable from the Releases section and run it directly.
 
