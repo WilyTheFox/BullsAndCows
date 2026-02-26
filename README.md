@@ -53,7 +53,7 @@ dotnet run
 
 Download the executable from the Releases section and run it directly.
 
-Build Configuration
+## Build Configuration
 
 The release build is:
 
@@ -63,6 +63,6 @@ Single-file
 
 Trimmed to reduce runtime size
 
-Purpose
+## Purpose
 
 This project serves as a foundational programming exercise to reinforce clean structure and basic architectural thinking in C#.
