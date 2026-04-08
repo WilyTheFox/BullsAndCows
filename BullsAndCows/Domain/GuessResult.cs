@@ -1,4 +1,5 @@
 ﻿namespace BullsAndCows.Domain
+{ 
     public readonly struct GuessResult
     {
         public int Bulls { get; }
